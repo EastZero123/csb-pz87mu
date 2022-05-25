@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://eastzero123.github.io/csb-pz87mu/static/css/main.dbdb230c.chunk.css",
+    "main.js": "https://eastzero123.github.io/csb-pz87mu/static/js/main.59143e7b.chunk.js",
+    "main.js.map": "https://eastzero123.github.io/csb-pz87mu/static/js/main.59143e7b.chunk.js.map",
+    "runtime-main.js": "https://eastzero123.github.io/csb-pz87mu/static/js/runtime-main.5dcbd81d.js",
+    "runtime-main.js.map": "https://eastzero123.github.io/csb-pz87mu/static/js/runtime-main.5dcbd81d.js.map",
+    "static/js/2.840749ca.chunk.js": "https://eastzero123.github.io/csb-pz87mu/static/js/2.840749ca.chunk.js",
+    "static/js/2.840749ca.chunk.js.map": "https://eastzero123.github.io/csb-pz87mu/static/js/2.840749ca.chunk.js.map",
+    "index.html": "https://eastzero123.github.io/csb-pz87mu/index.html",
+    "static/css/main.dbdb230c.chunk.css.map": "https://eastzero123.github.io/csb-pz87mu/static/css/main.dbdb230c.chunk.css.map",
+    "static/js/2.840749ca.chunk.js.LICENSE.txt": "https://eastzero123.github.io/csb-pz87mu/static/js/2.840749ca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5dcbd81d.js",
+    "static/js/2.840749ca.chunk.js",
+    "static/css/main.dbdb230c.chunk.css",
+    "static/js/main.59143e7b.chunk.js"
+  ]
+}
